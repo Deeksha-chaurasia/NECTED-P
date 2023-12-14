@@ -1,0 +1,57 @@
+.icon-h img{
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 9%;
+    height: 5vh;
+}
+.icon-d img{
+    margin-left: 20px;
+    margin-top: 15px;
+    width: 20%;
+    height: 5vh;
+}
+.h5-h{
+    margin-left: 5px;
+}
+.h4{
+    margin-top: 30px;
+    margin-left: 20px;
+    font-weight: 700;
+}
+.para-1{
+    margin-left: 20px;
+    font-size: medium;
+}
+.Join-b{
+    width: 10%;
+    height: 7vh;
+    margin-left: 20px;
+    margin-top: 16px;
+}
+.para-2{
+    margin-left: 20px;
+    color: gray;
+}
+.para-2 span{
+    color: rgb(22, 170, 228);
+}
+.down-p1{
+    margin-left: 20px;
+    font-size: small;
+    color: grey;
+}
+.down-icon{
+    margin-top: 30px;
+    display: flex;
+    margin-right: 6px;
+}
+
+.down-pr1{
+    font-size: small;
+    color: grey;
+}
+.down-pr2{
+    font-size: small;
+    color: grey;
+    margin-top: -12px;
+}
